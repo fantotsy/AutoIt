@@ -1,2 +1,2 @@
 #!/bin/bash
-start "C:\Users\Home\Desktop\TestScript.exe"
+start "C:\Users\Home\Desktop\AutoIt.exe"
