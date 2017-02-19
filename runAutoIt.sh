@@ -1,2 +1,2 @@
 #!/bin/bash
-start "C:\Users\Home\Desktop\AutoIt.exe"
+start "C:\Users\Home\Desktop\AutoItt.exe"
